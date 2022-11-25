@@ -1,5 +1,7 @@
 ## Eaê?🤗
 
+Meu site no gitpages https://hertonnn.github.io/Herton.Dev_Projects/
+
 ### Redes 
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/herton-cardias-70509a243/)
