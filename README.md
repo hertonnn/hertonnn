@@ -1,6 +1,6 @@
 ## Eaê?🤗
 
-Meu site no gitpages https://hertonnn.github.io/Herton.Dev_Projects/
+Meu site no gitpages https://hertonnn.github.io/
 
 ### Redes 
 
@@ -10,6 +10,5 @@ Meu site no gitpages https://hertonnn.github.io/Herton.Dev_Projects/
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
-[![Ilustrator](https://aleen42.github.io/badges/src/illustrator.svg)]()
 
 “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
