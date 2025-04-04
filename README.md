@@ -5,7 +5,7 @@
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por tecnologia, código e inovação  
 </p>
 
-![img_eu](https://media.licdn.com/dms/image/v2/D4D22AQGmySipnO--XA/feedshare-shrink_2048_1536/B4DZX8BNzsHwAs-/0/1743689933036?e=1746662400&v=beta&t=gJ169UTmmigeMbK2Mt_HakIs-WCKU50RDJnu-o7KBik)
+![img_eu](https://github.com/hertonnn/UDESC-Computacao/blob/49ef1b755544a688c86649fbca0bd19ac6fcb535/utils/img/img_eu.jpeg)
 ---
 
 ### 📚 Sobre mim
