@@ -40,9 +40,9 @@
 ### 📌 Projetos em destaque
 
 - 👨‍💻 [**Meu site**](https://hertonnn.github.io/) —  Meu site que criei para expor meus projetos de forma detalhada 
-- 🚀 [**Ciência da Computação - UDESC**](https://github.com/hertonnn/projeto1) — Repositório contendo grande parte do conteúdo do curso.
-- 🌐 [**API Finance**](https://github.com/hertonnn/projeto2) — Aplicação desktop para gerência de finanças pessoais
-- ⚙️ [**Scripts no meu pc**](https://github.com/hertonnn/projeto3) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
+- 🚀 [**Ciência da Computação - UDESC**](https://github.com/hertonnn/UDESC-Computacao) — Repositório contendo grande parte do conteúdo do curso.
+- 🌐 [**API Finance**](https://github.com/hertonnn/API-Financas) — Aplicação desktop para gerência de finanças pessoais
+- ⚙️ [**Scripts no meu pc**](https://github.com/hertonnn/scripts-utils) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
 
 
 ---
@@ -50,7 +50,6 @@
 ### 📈 Estatísticas GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hertonnn&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hertonnn&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
 </p>
 
