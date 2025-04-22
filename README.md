@@ -44,6 +44,13 @@
 - 🌐 [**API Finance**](https://github.com/hertonnn/API-Financas) — Aplicação desktop para gerência de finanças pessoais
 - ⚙️ [**Scripts no meu pc**](https://github.com/hertonnn/scripts-utils) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
 
+### 📌 Projetos da minha graduação
+- 🔍 📈 [**Complexidade algorítmica de operações em árvores**](https://github.com/hertonnn/UDESC-Computacao/tree/5623f141decdb444efca512a4ac4bd0be7efd2b1/EDA%20II%20-%20Estrutura%20de%20Dados%202/Trabalho%20Final%20-) - Trabalho final da disciplina de Estrutura de dados II, sobre operações de adição e remoção em árvores AVL, rubro-negra e B.
+
+- 🤖 🚦 [**Modelagem de sistema de trânsito utilizando autômatos**](https://github.com/hertonnn/UDESC-Computacao/tree/5623f141decdb444efca512a4ac4bd0be7efd2b1/LFA%20-%20Linguagens%20Formais%20de%20Aut%C3%B4matos/Trabalho%20final/Simula%C3%A7%C3%A3o-Tr%C3%A2nsito-2024) -  O trabalho consiste em modelar um sistema de trânsito simplificado, representado por um cenário inicial (cruzamentos, ruas e estacionamentos), utilizando Autômatos Finitos Determinísticos (AFD) e Autômatos com Pilha (AP).
+
+
+- 📸 🪻 [**Iris Flower Dataset, grafos e métricas de machine learning**](https://github.com/hertonnn/UDESC-Computacao/tree/5623f141decdb444efca512a4ac4bd0be7efd2b1/TEG%20-%20Teoria%20dos%20Grafos/Trabalhos/Grafo%20%C3%8Dris) - Este trabalho da disciplina de Teoria dos Grafos aborda a implementação e avaliação de um modelo de clustering baseado em grafos, utilizando a linguagem C para processar dados do [conjunto de dados flor Iris](https://pt.wikipedia.org/wiki/Conjunto_de_dados_flor_Iris).
 
 ---
 
