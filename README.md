@@ -40,9 +40,12 @@
 ### 📌 Projetos em destaque
 
 - 👨‍💻 [**Meu site**](https://hertonnn.github.io/) —  Meu site que criei para expor meus projetos de forma detalhada 
+
 - 🚀 [**Ciência da Computação - UDESC**](https://github.com/hertonnn/UDESC-Computacao) — Repositório contendo grande parte do conteúdo do curso.
+
 - 🌐 [**API Finance**](https://github.com/hertonnn/API-Financas) — Aplicação desktop para gerência de finanças pessoais
-- ⚙️ [**Scripts no meu pc**](https://github.com/hertonnn/scripts-utils) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento linux ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)  
+
+- ⚙️ [**Scripts de automatização do meu pc**](https://github.com/hertonnn/scripts-utils) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento.
 
 ### 📌 Projetos da minha graduação
 - 🔍 📈 [**Complexidade algorítmica de operações em árvores**](https://github.com/hertonnn/UDESC-Computacao/tree/5623f141decdb444efca512a4ac4bd0be7efd2b1/EDA%20II%20-%20Estrutura%20de%20Dados%202/Trabalho%20Final%20-) - Trabalho final da disciplina de Estrutura de dados II, sobre operações de adição e remoção em árvores AVL, rubro-negra e B.
