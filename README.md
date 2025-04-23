@@ -53,7 +53,7 @@
 - 🤖 🚦 [**Modelagem de sistema de trânsito utilizando autômatos**](https://github.com/hertonnn/UDESC-Computacao/tree/f69d092a873219270d94ab1de8f510da709bd37c/LFA%20-%20Linguagens%20Formais%20de%20Aut%C3%B4matos/Trabalho%20final/Simula%C3%A7%C3%A3o-Tr%C3%A2nsito-2024) -  O trabalho consiste em modelar um sistema de trânsito simplificado, representado por um cenário inicial (cruzamentos, ruas e estacionamentos), utilizando Autômatos Finitos Determinísticos (AFD) e Autômatos com Pilha (AP).
 
 
-- 📸 🪻 [**Iris Flower Dataset, grafos e métricas de machine learning**](https://github.com/hertonnn/UDESC-Computacao/tree/5623f141decdb444efca512a4ac4bd0be7efd2b1/TEG%20-%20Teoria%20dos%20Grafos/Trabalhos/Grafo%20%C3%8Dris) - Este trabalho da disciplina de Teoria dos Grafos aborda a implementação e avaliação de um modelo de clustering baseado em grafos, utilizando a linguagem C para processar dados do [conjunto de dados flor Iris](https://pt.wikipedia.org/wiki/Conjunto_de_dados_flor_Iris).
+- 📸 🪻 [**Iris Flower Dataset, grafos e métricas de machine learning**](https://github.com/hertonnn/UDESC-Computacao/tree/48f44e99bb4f739ff70fa2e769810e3a33ac10da/TEG%20-%20Teoria%20dos%20Grafos/Trabalhos/Grafo%20%C3%8Dris) - Este trabalho da disciplina de Teoria dos Grafos aborda a implementação e avaliação de um modelo de clustering baseado em grafos, utilizando a linguagem C para processar dados do [conjunto de dados flor Iris](https://pt.wikipedia.org/wiki/Conjunto_de_dados_flor_Iris).
 
 ---
 
