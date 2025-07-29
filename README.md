@@ -48,6 +48,8 @@
 - ⚙️ [**Scripts de automatização do meu pc**](https://github.com/hertonnn/scripts-utils) — Alguns scripts úteis em Shel que criei para otimizar meu ambiente de desenvolvimento.
 
 ### 👨🏻‍🎓 Projetos da minha graduação
+- ⚖️ 💻 [**Sistema Jurídico**](https://github.com/hertonnn/Sistema-Juridico) - A proposta visa criar um repositório centralizado para organizar informações e documentos da área do Direito, simplificando e otimizando o acesso por parte dos profissionais da área.
+
 - 🔍 📈 [**Complexidade algorítmica de operações em árvores**](https://github.com/hertonnn/UDESC-Computacao/tree/285d32a6088c53ad5143f2d941b4fedf65ad44f7/EDA%20II%20-%20Estrutura%20de%20Dados%202/Trabalho%20Final) - Trabalho final da disciplina de Estrutura de dados II, sobre operações de adição e remoção em árvores AVL, rubro-negra e B.
 
 - 🤖 🚦 [**Modelagem de sistema de trânsito utilizando autômatos**](https://github.com/hertonnn/UDESC-Computacao/tree/f69d092a873219270d94ab1de8f510da709bd37c/LFA%20-%20Linguagens%20Formais%20de%20Aut%C3%B4matos/Trabalho%20final/Simula%C3%A7%C3%A3o-Tr%C3%A2nsito-2024) -  O trabalho consiste em modelar um sistema de trânsito simplificado, representado por um cenário inicial (cruzamentos, ruas e estacionamentos), utilizando Autômatos Finitos Determinísticos (AFD) e Autômatos com Pilha (AP).
