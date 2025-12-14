@@ -4,7 +4,7 @@
 <p align="center">
 🎓 Estudante de Ciência da Computação | 💻 Apaixonado por tecnologia, código e inovação  
 </p>
-![Visite o meu site profissional](https://hertonnn.github.io/)
+[Visite o meu site profissional](https://hertonnn.github.io/)
 
 ![img_eu](https://github.com/hertonnn/UDESC-Computacao/blob/49ef1b755544a688c86649fbca0bd19ac6fcb535/utils/img/img_eu.jpeg)
 
